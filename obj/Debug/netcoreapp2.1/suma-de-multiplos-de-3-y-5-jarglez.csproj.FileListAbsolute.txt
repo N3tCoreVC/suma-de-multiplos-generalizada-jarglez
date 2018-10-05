@@ -1,0 +1,11 @@
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.deps.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.runtimeconfig.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.runtimeconfig.dev.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.pdb
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.csprojAssemblyReference.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.csproj.CoreCompileInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.AssemblyInfoInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.AssemblyInfo.cs
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\suma-de-multiplos-de-3-y-5-jarglez\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-jarglez.pdb
